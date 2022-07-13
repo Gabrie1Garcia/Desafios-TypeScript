@@ -1,2 +1,3 @@
 # Desafios TypeScript
- Resolver os desafios propostos de TypeScript
+ 
+ Desafios de TypeScript propotos no Bootcamp Impulso Javascript da DIO.
